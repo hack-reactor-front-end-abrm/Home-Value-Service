@@ -1,0 +1,33 @@
+{
+  "name": "home-value-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hack-reactor-front-end-abrm/Home-Value-Service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hack-reactor-front-end-abrm/Home-Value-Service/issues"
+  },
+  "homepage": "https://github.com/hack-reactor-front-end-abrm/Home-Value-Service#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.16.4",
+    "node": "^11.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "sqlite3": "^4.0.6",
+    "webpack": "^4.29.6"
+  }
+}
